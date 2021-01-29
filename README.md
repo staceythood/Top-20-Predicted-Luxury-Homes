@@ -3,7 +3,6 @@
 
 FINAL PROJECT – RECOMMENDATION OF TOP 20 LUXURIOUS HOMES
 
-**1.** **Business/Research Understanding Phase (Phase 1)**
 
 **1.1 Objective**
 
@@ -17,4 +16,4 @@ Our group acted as a set of investors who plan to purchase 20 residential proper
 
 Among the actual top-20 houses, our team predicted 17 correctly (85% hit). Among the remaining 3 of our nominated houses, all of them ranked in the actual top-40. All 5 of the actual top-5 houses were in our list of 20. 
 
-For detailed methodology and models, see [Report](https:///)
+For detailed methodology and models, see [Report](https://github.com/staceythood/Top-20-Predicted-Luxury-Homes/blob/main/Final%20Report.docx)
